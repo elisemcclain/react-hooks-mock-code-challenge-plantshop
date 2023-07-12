@@ -41,6 +41,26 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Snek plant",
+      "image": "https://www.dahingplants.com/cdn/shop/products/000011-01.jpg?v=1643723356",
+      "price": 300,
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "s",
+      "image": "https://www.dahingplants.com/cdn/shop/products/000011-01.jpg?v=1643723356",
+      "price": 0.07,
+      "stocked": ""
+    },
+    {
+      "id": 10,
+      "name": "",
+      "image": "",
+      "price": "",
+      "stocked": ""
     }
   ]
 }
